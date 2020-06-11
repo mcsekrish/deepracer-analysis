@@ -1,3 +1,5 @@
+Blog: [Breaking in to the Top 10 of AWS Deepracer Competition - May 2020](https://mickqg.github.io/DeepracerBlog/)
+
 This is a fork of the original deepracer-analysis which can be found at the [AWS DeepRacer Community](https://github.com/aws-deepracer-community/deepracer-analysis).
 
 * Modified Training_Analysis to incorporate to better view training progress and optimise viewing of model speed.
