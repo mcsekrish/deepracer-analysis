@@ -2,7 +2,8 @@ Blog: [Breaking in to the Top 10 of AWS Deepracer Competition - May 2020](https:
 
 This is a fork of the original deepracer-analysis which can be found at the [AWS DeepRacer Community](https://github.com/aws-deepracer-community/deepracer-analysis).
 
-* Modified Training_Analysis to incorporate to better view training progress and optimise viewing of model speed.
+* Modified Training_Analysis incorporating a better graphs to view training progress and model laptime/speed.
+* Modified Race-Line-Calculation to autogenerate the racingline - a fork from [cdthompson](https://github.com/cdthompson/deepracer-k1999-race-lines).
 * Create_Trackfile can be used to generate a track numpy file (especially for new tracks). Takes in printed waypoints and calculates the inner and outer borders.
 * Track_Analysis is used to create your custom racing line + to view the track and racing line characteristics.
 
